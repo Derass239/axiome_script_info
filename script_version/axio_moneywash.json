@@ -1,6 +1,6 @@
 {
-    "lastest": "1.1.0",
+    "lastest": "1.2.0",
     "patchnotes": [
-        "Required minmum server artifact set at 6180"
+        "Update function for saving withdraw after server restart"
     ]
 }
