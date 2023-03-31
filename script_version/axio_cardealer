@@ -1,0 +1,7 @@
+{
+    "lastest": "1.3.0",
+    "patchnotes": [
+        "Added a check of the number of vehicles available",
+        "Fixed a warning when there was no vehicle mark"
+    ]
+}
