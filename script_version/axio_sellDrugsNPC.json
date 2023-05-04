@@ -1,6 +1,7 @@
 {
-    "lastest": "1.0.0",
+    "lastest": "1.0.1",
     "patchnotes": [
-        "Initial release"
+        "Fix bug when item in config file do not existe in game",
+        "Added a check at the start of the script to verify if the items in the config exist"
     ]
 }
